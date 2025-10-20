@@ -1,0 +1,11 @@
+// Here Contains the data types that im going to learn
+/* Class is called blue print of object
+and object is often called instance of the class
+Object is something that has unique entity like state(characterstics) and behavior
+for example:- Student 
+              class             Object
+              id-card            wirtes exam
+              uniform            studies 
+              school bag         participate in games */
+Objects are created with "new" method which allocate memory and helps in creation of object
+ Student pavan = new Student();// <class name> object  = new <Class name> */
